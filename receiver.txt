@@ -1,0 +1,19 @@
+Packet:1 Dropped
+Packet:1 Dropped
+Packet:1 Dropped
+Acknowledgment:2
+Acknowledgment:3
+Packet:3 Dropped
+Packet:3 Dropped
+Acknowledgment:4
+Acknowledgment:5
+Acknowledgment:6
+Packet:6 Dropped
+Acknowledgment:7
+Packet:7 Dropped
+Acknowledgment:8
+Packet:8 Dropped
+Packet:8 Dropped
+Acknowledgment:9
+Acknowledgment:10
+Acknowledgment:11
